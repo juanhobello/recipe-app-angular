@@ -13,6 +13,11 @@ export class RecipeListComponent implements OnInit {
       'This is a Test Recipe',
       'https://encurtador.com.br/suOUY'
     ),
+    new Recipe(
+      'A Test Recipe',
+      'This is a Test Recipe',
+      'https://encurtador.com.br/suOUY'
+    ),
   ];
 
   constructor() {}
